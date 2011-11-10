@@ -11,13 +11,13 @@ and formatting.
 
 Add the following to your gemfile:
 
-    gem 'bootstrap-sass', '1.4.0'
+    gem 'datejs-rails'
 
 Add the following directive to your Javascript manifest file (application.js):
 
-    //= require datejs
+    //= require date
 
 This will require the en-US version of datejs. All other localizations are
 available as well. For instance, you could instead:
 
-    //= require datejs-fr-FR
+    //= require date-fr-FR
