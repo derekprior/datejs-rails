@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/derekprior/datejs-rails"
   s.summary     = "The datejs Javascript library ready to play with Rails"
 
-  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.rdoc"]
+  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
 
   s.add_dependency "rails", "~> 3.1.1"
 end
