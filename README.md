@@ -21,3 +21,9 @@ This will require the en-US version of datejs. All other localizations are
 available as well. For instance, you could instead:
 
     //= require date-fr-FR
+
+Optionally, require `extras.js` for `strftime`-style [FormatSpecifiers](http://code.google.com/p/datejs/wiki/FormatSpecifiers).
+
+    //= require datejs-extras
+    
+    
