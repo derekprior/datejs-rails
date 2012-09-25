@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "datejs-rails"
-  s.version     = "1.1.0"
+  s.version     = "2.0.0"
   s.authors     = ["Derek Prior"]
   s.homepage    = "https://github.com/derekprior/datejs-rails"
   s.summary     = "The datejs Javascript library ready to play with Rails"
