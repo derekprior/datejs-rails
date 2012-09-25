@@ -5,3 +5,4 @@
 //= require date/parser
 //= require date/sugarpak
 //= require date/time
+//= require date/en-US
