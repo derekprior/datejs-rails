@@ -1,3 +1,5 @@
+require "bundler/gem_tasks"
+
 Origin = ENV['origin'] || "git://github.com/eric/Datejs.git"
 Branch = ENV['branch'] || 'next'
 directory temp = 'tmp'
