@@ -7,6 +7,12 @@ maintained by Eric Lindvall][1]
 datejs extends the Javascript date object to allow for simple date parsing, calculation,
 and formatting.
 
+## Archived
+
+There are a number of more suitable ways to work with Dates in JavaScript these days, as
+well as a number of better ways to work with JavaScript in Rails. This projects in now
+archived and will see no more releases.
+
 ## Usage
 
 Add the following to your gemfile:
